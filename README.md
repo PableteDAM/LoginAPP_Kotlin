@@ -40,5 +40,29 @@ El diseño se construye íntegramente dentro del archivo **MainActivity.kt**, ut
 
 ---
 
-## 💻 Captura de pantalla (Diseño aproximado)
+## 🎨 Diseño original en Figma
+
+El diseño se inspiró en un concepto propio realizado con Figma, siguiendo el estilo:
+
+Fondo oscuro #121212
+
+Azul principal #0A84FF
+
+Tipografía Poppins / Roboto
+
+Curvas superiores creadas con herramienta Draw
+
+Link a diseño de figma: https://www.figma.com/design/vN6UANU5KePbqenQJng5ur/Login-APP-UI?node-id=0-1&t=ke5CPLl3wFLgBIB0-1
+
+
+
+## 🧑‍💻 Autor
+
+Pablo Caballero
+💼 Estudiante de 2º DAM
+📍 Gran Canaria, España
+📧 pablo.caballerodam@gmail.com
+
+
+
 
